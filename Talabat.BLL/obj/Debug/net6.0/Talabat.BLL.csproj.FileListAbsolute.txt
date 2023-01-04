@@ -1,0 +1,30 @@
+D:\Studing\net_course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.BLL.deps.json
+D:\Studing\net_course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.BLL.dll
+D:\Studing\net_course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.BLL.pdb
+D:\Studing\net_course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.DAL.dll
+D:\Studing\net_course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.DAL.pdb
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.csproj.AssemblyReference.cache
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.AssemblyInfoInputs.cache
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.AssemblyInfo.cs
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.csproj.CoreCompileInputs.cache
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.csproj.CopyComplete
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.dll
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\refint\Talabat.BLL.dll
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.pdb
+D:\Studing\net_course\API Assignments\Talabat.BLL\obj\Debug\net6.0\ref\Talabat.BLL.dll
+D:\Studing\route .net course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.BLL.deps.json
+D:\Studing\route .net course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.BLL.dll
+D:\Studing\route .net course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.BLL.pdb
+D:\Studing\route .net course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.DAL.dll
+D:\Studing\route .net course\API Assignments\Talabat.BLL\bin\Debug\net6.0\Talabat.DAL.pdb
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.csproj.AssemblyReference.cache
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.AssemblyInfoInputs.cache
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.AssemblyInfo.cs
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.csproj.CoreCompileInputs.cache
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.csproj.CopyComplete
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.dll
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\refint\Talabat.BLL.dll
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\Talabat.BLL.pdb
+D:\Studing\route .net course\API Assignments\Talabat.BLL\obj\Debug\net6.0\ref\Talabat.BLL.dll

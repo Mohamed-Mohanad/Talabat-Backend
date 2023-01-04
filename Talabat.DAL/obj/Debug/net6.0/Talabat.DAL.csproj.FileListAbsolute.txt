@@ -1,0 +1,24 @@
+D:\Studing\net_course\API Assignments\Talabat.DAL\bin\Debug\net6.0\Talabat.DAL.deps.json
+D:\Studing\net_course\API Assignments\Talabat.DAL\bin\Debug\net6.0\Talabat.DAL.dll
+D:\Studing\net_course\API Assignments\Talabat.DAL\bin\Debug\net6.0\Talabat.DAL.pdb
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.csproj.AssemblyReference.cache
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.AssemblyInfoInputs.cache
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.AssemblyInfo.cs
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.dll
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\refint\Talabat.DAL.dll
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.pdb
+D:\Studing\net_course\API Assignments\Talabat.DAL\obj\Debug\net6.0\ref\Talabat.DAL.dll
+D:\Studing\route .net course\API Assignments\Talabat.DAL\bin\Debug\net6.0\Talabat.DAL.deps.json
+D:\Studing\route .net course\API Assignments\Talabat.DAL\bin\Debug\net6.0\Talabat.DAL.dll
+D:\Studing\route .net course\API Assignments\Talabat.DAL\bin\Debug\net6.0\Talabat.DAL.pdb
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.csproj.AssemblyReference.cache
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.AssemblyInfoInputs.cache
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.AssemblyInfo.cs
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.csproj.CoreCompileInputs.cache
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.dll
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\refint\Talabat.DAL.dll
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\Talabat.DAL.pdb
+D:\Studing\route .net course\API Assignments\Talabat.DAL\obj\Debug\net6.0\ref\Talabat.DAL.dll

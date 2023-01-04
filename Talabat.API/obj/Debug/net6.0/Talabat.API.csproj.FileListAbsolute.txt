@@ -1,0 +1,155 @@
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\appsettings.json
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.exe
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.deps.json
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.runtimeconfig.json
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.pdb
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Humanizer.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.BLL.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.DAL.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.BLL.pdb
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.DAL.pdb
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.csproj.AssemblyReference.cache
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.AssemblyInfoInputs.cache
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.AssemblyInfo.cs
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.csproj.CoreCompileInputs.cache
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\scopedcss\bundle\Talabat.API.styles.css
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.csproj.CopyComplete
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.dll
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\refint\Talabat.API.dll
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.pdb
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.genruntimeconfig.cache
+D:\Studing\net_course\API Assignments\Talabat.API\obj\Debug\net6.0\ref\Talabat.API.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\AutoMapper.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Studing\net_course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.staticwebassets.runtime.json
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\appsettings.Development.json
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\appsettings.json
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.staticwebassets.runtime.json
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.exe
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.deps.json
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.runtimeconfig.json
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.API.pdb
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\AutoMapper.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Humanizer.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.BLL.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.DAL.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.BLL.pdb
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Talabat.DAL.pdb
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.csproj.AssemblyReference.cache
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.AssemblyInfoInputs.cache
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.AssemblyInfo.cs
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.csproj.CoreCompileInputs.cache
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\scopedcss\bundle\Talabat.API.styles.css
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.csproj.CopyComplete
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\refint\Talabat.API.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.pdb
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\Talabat.API.genruntimeconfig.cache
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\ref\Talabat.API.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\StackExchange.Redis.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\Stripe.net.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.API.props
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.API.props
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.API.props
+D:\Studing\route .net course\API Assignments\Talabat.API\obj\Debug\net6.0\staticwebassets.pack.json

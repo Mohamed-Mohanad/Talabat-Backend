@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "wON0oA21ofwG7Dp+UfML7FVYk+PVwVZAzsTDR9qpAUY=",
+  "Source": "Talabat.API",
+  "BasePath": "_content/Talabat.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.API\\wwwroot",
+      "Source": "Talabat.API",
+      "ContentRoot": "D:\\Studing\\route .net course\\API Assignments\\Talabat.API\\wwwroot\\",
+      "BasePath": "_content/Talabat.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
